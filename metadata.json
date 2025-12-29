@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Prosterite",
+  "description": "Aplicativo oficial Prosterite para acompanhamento do tratamento, gestão de medicamentos e suporte com IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
